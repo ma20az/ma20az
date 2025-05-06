@@ -35,7 +35,7 @@ I'm a passionate **Web & Software Developer** and **Web & Software Designer**! I
 
 Feel free to reach out!  
 - 📧 Email: moha024480@gmail.com  
-- 🔗 LinkedIn: [[LinkedIn Profile URL]](https://www.linkedin.com/in/mohammad-ma/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohammad-ma/
 
 ---
 
